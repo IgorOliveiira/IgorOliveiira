@@ -17,4 +17,3 @@
   
   
 
-![Snake animation](https://github.com/IgorOliveiira/IgorOliveiira/blob/output/github-contribution-grid-snake.svg)
